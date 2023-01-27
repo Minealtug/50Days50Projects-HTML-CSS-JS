@@ -15,12 +15,9 @@ Contains 50 mini-projects on HTML, CSS, DOM (Document Object Model) and JavaScri
 
 <h2  align="center">Project List</h2>
 
-
-<ul>
-   Days    Source Codes
-</ul>
+<h4 align="center">Source Codes</h4>
    <ul>
-   <li>01     <a href="https://github.com/Minealtug/50Days50Projects-HTML-CSS-JS/tree/main/ExpandinCards(Geni%C5%9Fleyen%20kartlar)"</a> How to Make Animated Pop-Up Cards • 50 Days 50 Projects -1</li>
+   <li>01     <a href="https://github.com/Minealtug/50Days50Projects-HTML-CSS-JS/tree/main/ExpandinCards(Geni%C5%9Fleyen%20kartlar)"</a> How to Make Animated Pop-Up Cards • 50 Days 50 Projects -1 {color :# 000000}</li>
 </ul>
    
        
