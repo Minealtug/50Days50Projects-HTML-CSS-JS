@@ -20,6 +20,8 @@ Contains 50 mini-projects on HTML, CSS, DOM (Document Object Model) and JavaScri
             <td>Days</td>
             <td>Sources Code</td>
             <br />
-          
+   </tr>
+           
+   </body>
        
 </table>
