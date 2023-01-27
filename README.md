@@ -14,27 +14,13 @@ Contains basic projects for new beginner and intermediate developers.
 Contains 50 mini-projects on HTML, CSS, DOM (Document Object Model) and JavaScript.</p>
 
 <h2  align="center">Project List</h2>
+
+
 <ul>
-   <li></li>
+   Days    Source Codes
 </ul>
-
-<table > <body style="text-align: center" >
-        <tr>
-            <td>Days</td>
-            <td>Sources Code</td>
-            <br />
-   </tr>
-   
-      <tr>
-            <td>01</td>
-            <td ><a href="https://github.com/Minealtug/50Days50Projects-HTML-CSS-JS/tree/main/ExpandinCards(Geni%C5%9Fleyen%20kartlar)"</a> How to Make Animated Pop-Up Cards • 50 Days 50 Projects -1</td>
-            <br />
-   </tr>
-           
-   </body>
-
-<ul>
-   <li></li>
+   <ul>
+   <li>01     <a href="https://github.com/Minealtug/50Days50Projects-HTML-CSS-JS/tree/main/ExpandinCards(Geni%C5%9Fleyen%20kartlar)"</a> How to Make Animated Pop-Up Cards • 50 Days 50 Projects -1</li>
 </ul>
    
        
