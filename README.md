@@ -14,8 +14,11 @@ Contains basic projects for new beginner and intermediate developers.
 Contains 50 mini-projects on HTML, CSS, DOM (Document Object Model) and JavaScript.</p>
 
 <h2  align="center">Project List</h2>
+<ul>
+   <li></li>
+</ul>
 
-<table border="1"> <body style="text-align: center" >
+<table > <body style="text-align: center" >
         <tr>
             <td>Days</td>
             <td>Sources Code</td>
@@ -29,5 +32,10 @@ Contains 50 mini-projects on HTML, CSS, DOM (Document Object Model) and JavaScri
    </tr>
            
    </body>
+
+<ul>
+   <li></li>
+</ul>
+   
        
 </table>
