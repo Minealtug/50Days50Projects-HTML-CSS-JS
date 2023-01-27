@@ -21,16 +21,5 @@ Contains 50 mini-projects on HTML, CSS, DOM (Document Object Model) and JavaScri
             <td>Sources Code</td>
             <br />
           
-        </tr>
-        <tr>
-            <td>Sinem</td>
-            <td>95</td>
-            <td>80</td>
-        </tr>
-        <tr>
-            <td>Ahmet</td>
-            <td>100</td>
-            <td>65</td>
-        </tr>
-    </body>
+       
 </table>
