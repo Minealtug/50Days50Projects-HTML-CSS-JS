@@ -13,4 +13,4 @@ It is a completely project-based repository.
 Contains basic projects for new beginner and intermediate developers.
 Contains 50 mini-projects on HTML, CSS, DOM (Document Object Model) and JavaScript.</p>
 
-<h2  align="center">Projects</h2>
+<h2  align="center">Project List</h2>
