@@ -15,7 +15,7 @@ Contains 50 mini-projects on HTML, CSS, DOM (Document Object Model) and JavaScri
 
 <h2  align="center">Project List</h2>
 
-<table  style="text-align: center"  border="1"> <body>
+<table border="1"> <body style="text-align: center" >
         <tr>
             <td>Days</td>
             <td>Sources Code</td>
